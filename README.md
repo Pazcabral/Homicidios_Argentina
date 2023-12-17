@@ -14,6 +14,6 @@ Para la realización del presente trabajo se utilizaron los datos provistos por 
 De forma adjunta a este proyecto se presenta la base de datos utilizada. Pero también es posible acceder a éstas y otras estadísticas delitictivas oficiales de Argentina, por medio de la siguiente página web: https://www.argentina.gob.ar/seguridad/estadisticascriminales/bases-de-datos
 
 ### :bar_chart: Transformaciones y visualización de los datos
-Por medio de la herramienta SQL Server se han realizado transformaciones en los datos, así como también se han generado diversas consultas para la exploración y análisis de la información. Para acceder al Script SQL: 
+Por medio de la herramienta SQL Server se han realizado transformaciones en los datos, así como también se han generado diversas consultas para la exploración y análisis de la información. Para acceder al Script SQL: https://github.com/Pazcabral/Homicidios_Argentina/blob/main/HomicidiosArgentina.sql 
 
 Luego, se ha utilizado Power BI para visualización de los datos y presentación de los insights obtenidos. Es posible acceder al dashboard interactivo mediante el siguiente enlace: https://app.powerbi.com/view?r=eyJrIjoiOGRjOGE0N2QtOTA1ZC00MGY5LWEzMjctNjQ1YWRjOGQ5NDEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 

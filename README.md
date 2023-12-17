@@ -13,7 +13,7 @@ El principal objetivo de este proyecto es explorar los datos sobre las víctimas
 Para la realización del presente trabajo se utilizaron los datos provistos por el Ministerio de Seguridad de la Nación, particularmente la base SAT Homicidios Dolosos 2017-2022, la cual contiene información estadística sobre los homicidios dolosos de todo el territorio de la República Argentina para dicho período. La información está desagregada a partir de distintas variables relevantes para identificar características y tendencias de los homicidios dolosos.
 De forma adjunta a este proyecto se presenta la base de datos utilizada. Pero también es posible acceder a éstas y otras estadísticas delitictivas oficiales de Argentina, por medio de la siguiente página web: https://www.argentina.gob.ar/seguridad/estadisticascriminales/bases-de-datos
 
-### :bar_chart: Visualización de los datos
-Para el procesamiento y la visualización de los datos se ha utilizado la herramienta Power BI.
+### :bar_chart: Transformaciones y visualización de los datos
+Por medio de la herramienta SQL Server se han realizado transformaciones en los datos, así como también se han generado diversas consultas para la exploración y análisis de la información. Para acceder al Script SQL: 
 
-Es posible acceder al dashboard interactivo mediante el siguiente enlace: https://app.powerbi.com/view?r=eyJrIjoiOGRjOGE0N2QtOTA1ZC00MGY5LWEzMjctNjQ1YWRjOGQ5NDEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
+Luego, se ha utilizado Power BI para visualización de los datos y presentación de los insights obtenidos. Es posible acceder al dashboard interactivo mediante el siguiente enlace: https://app.powerbi.com/view?r=eyJrIjoiOGRjOGE0N2QtOTA1ZC00MGY5LWEzMjctNjQ1YWRjOGQ5NDEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9 
